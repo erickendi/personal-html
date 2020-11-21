@@ -1,1 +1,1 @@
-# personalSite
+# personal-site
